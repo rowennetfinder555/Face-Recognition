@@ -34,7 +34,7 @@ The model has an accuracy of 99.38% on the [Labeled Faces in the Wild](http://vi
 
 ## Procedure:
 
-- Clone this repository `git clone git@github.com:anubhavshrimal/FaceRecognition.git`.
+- Clone this repository `git clone git@github.com:rowennetfinder555/Face-Recognition.git`.
 
 ### Training:
 - Make folder `training-images`.
@@ -71,9 +71,3 @@ The model has an accuracy of 99.38% on the [Labeled Faces in the Wild](http://vi
 - Run on cmd `python predict.py` to predict the faces in each image.
 
     <img src='https://user-images.githubusercontent.com/17249362/28241800-21ecf69e-69b9-11e7-8564-6d9dcb067225.png' width='700px'>
-
-
-## Vote of Thanks
-- Thanks to [Adam Geitgey](https://github.com/ageitgey) whose blog inspired me to make this project.
-- Thanks to [Davis King](https://github.com/davisking) for creating dlib and for providing the trained facial feature
-  detection and face encoding models used in this project.
